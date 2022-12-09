@@ -10,3 +10,5 @@ if(c==2){
 }else{
     console.log("its not prime")
 }
+
+console.log("lokendra singh")
