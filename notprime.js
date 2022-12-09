@@ -5,7 +5,7 @@ if(N%i==0){
     c++
  }
 }
-if(c!=2){
+if(c==2){
     console.log("is prime")
 }else{
     console.log("its not prime")
